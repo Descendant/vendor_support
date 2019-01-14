@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.preferences;
+package org.descendant.settings.preferences;
 
 import android.content.Context;
 import android.support.v14.preference.SwitchPreference;

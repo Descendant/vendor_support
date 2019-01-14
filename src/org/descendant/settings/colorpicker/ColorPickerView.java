@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.colorpicker;
+package org.descendant.settings.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

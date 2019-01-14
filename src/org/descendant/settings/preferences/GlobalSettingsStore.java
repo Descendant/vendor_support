@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.preferences;
+package org.descendant.settings.preferences;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;
